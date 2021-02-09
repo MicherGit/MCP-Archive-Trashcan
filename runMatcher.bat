@@ -1,1 +1,1 @@
-".\jdk-15\bin\java" -jar matcher-all.jar
+".\jdk-15\bin\java" -jar ".\matcher-all.jar"
